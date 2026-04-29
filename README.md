@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  
 # Flask App with MySQL Docker Setup
 
@@ -128,3 +129,7 @@ docker run -d \
 
 ```
 
+=======
+# two-tier-docker-project
+Docker-based two-tier architecture using Flask and MySQL. Designed to showcase container orchestration, networking, and DevOps fundamentals.
+>>>>>>> ce727db3c97689e98304b81bbeaf0112e7dba416
